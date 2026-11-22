@@ -1,0 +1,8 @@
+{
+  "name": "loan-tape-review",
+  "version": "1.0.0",
+  "description": "Upload a Setpoint-style loan tape workbook and get a sourced, shareable review report. Runs in the browser.",
+  "scripts": { "test": "node test/run.js", "start": "python3 -m http.server 8080" },
+  "license": "MIT",
+  "private": true
+}
